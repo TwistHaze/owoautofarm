@@ -58,7 +58,7 @@ m)
 
 ![image](https://github.com/TwistHaze/owoautofarm/assets/135362115/311e83b8-8946-481b-a9cd-17881e2d1371)
 
-- Click Copy Used ID (The button below)
+- Click Copy User ID (The button below)
 
 ![image](https://github.com/TwistHaze/owoautofarm/assets/135362115/289cdfe1-1a1f-4a75-86ae-f06c64effa09)
 
