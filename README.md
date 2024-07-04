@@ -48,6 +48,7 @@ m)
     .find((e) => e?.exports?.default?.getToken !== void 0)
     .exports.default.getToken();
 ```
+- And enter
 
 ![image](https://github.com/TwistHaze/owoautofarm/assets/135362115/1b894d32-f69c-4716-804d-032727ab07b2)
 
@@ -66,7 +67,7 @@ m)
 ## 🔎 How I Get Channel ID?
 - Create New Channel
 - Create 3 Different Text Channels
-- 1) owo-quest ---- 2) owo-chat ---- 3) owo gamblit
+- 1-) owo-quest ---- 2-) owo-chat ---- 3-) owo gamblit
 - Right Click owo-chat Text Channel
 - Click Copy Channel ID
  
