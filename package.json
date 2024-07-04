@@ -1,0 +1,51 @@
+{
+    "name": "owoautofarm",
+    "version": "0.0.0",
+    "description": "Owo Bot Auto Bot Chapta Protect",
+    "main": "bot.js",
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/TwistHaze/owoautofarm.git"
+    },
+    "keywords": [
+        "nodejs",
+        "bot",
+        "selfbot",
+        "selfbot-for-discord",
+        "owo",
+        "owo-bot",
+        "owo-self-bot",
+        "owofarm",
+        "discord-owo-selfbot",
+        "self-owo",
+        "owofarmbot",
+        "owoautofarm",
+        "owobot",
+        "owoautofarmer"
+    ],
+    "author": "TwistHaze",
+    "license": "MIT",
+    "scripts": {
+        "start": "node bot.js",
+        "run": "node bot.js",
+        "setup": "npm i"
+    },
+    "dependencies": {
+        "chalk": "^4.1.2",
+        "collect.js": "^4.34.3",
+        "delay": "^5.0.0",
+        "discord-rpc": "^4.0.1",
+        "dotenv": "^16.3.1",
+        "follow-redirects": "^1.15.2",
+        "node-notifier": "^10.0.1",
+        "request": "^2.88.2",
+        "seedrandom": "^3.0.5",
+        "socket.io": "^4.6.2",
+        "socket.io-client": "^4.6.2",
+        "systeminformation": "^5.22.7"
+    },
+    "bugs": {
+        "url": "https://github.com/TwistHaze/owoautofarm/issues"
+    },
+    "homepage": "https://github.com/TwistHaze/owoautofarm#readme"
+}
