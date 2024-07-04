@@ -63,7 +63,7 @@ global.quest = true;
 global.questtitle = "";
 
 //console.clear();
-process.title = `OwO Farm Bot 💗 Bot Version ${version} / BanBypass Version ${banversion} 💗`;
+process.title = `TwistHaze Owo Auto Farm - Version ${version} / BanBypass Version ${banversion} `;
 
 checkversion();
 
@@ -256,7 +256,7 @@ if (settings.discordrpc) {
 console.log(
     chalk.cyan("github.com/TwistHaze\n") +
         chalk.cyan("DC: 404wg  ------- IG: 404wg\n") +
-        chalk.magenta("OwO Farm Bot Started") +
+        chalk.magenta("OwO Auto Farm Started") +
         chalk.blue(` version ${version}`)
 );
 
@@ -2458,7 +2458,7 @@ function bancheck(token, channelid) {
                     icon: "./utils/captcha.png",
                     sound: true,
                     wait: true,
-                    appID: "OwO Farm Bot",
+                    appID: "OwO Auto Farm",
                 });
 
                 setTimeout(() => {
@@ -2521,7 +2521,7 @@ function extrabancheck(token, channelid) {
                     icon: "./utils/captcha.png",
                     sound: true,
                     wait: true,
-                    appID: "OwO Farm Bot",
+                    appID: "OwO Auto Farm By TwistHaze",
                 });
 
                 setTimeout(() => {
@@ -2587,7 +2587,7 @@ function dmbancheck(token, channelid) {
                         icon: "./utils/captcha.png",
                         sound: true,
                         wait: true,
-                        appID: "OwO Farm Bot",
+                        appID: "OwO Auto Farm",
                     });
 
                     setTimeout(() => {
@@ -2653,7 +2653,7 @@ function dmextrabancheck(token, channelid) {
                         icon: "./utils/captcha.png",
                         sound: true,
                         wait: true,
-                        appID: "OwO Farm Bot",
+                        appID: "OwO Auto Farm",
                     });
 
                     setTimeout(() => {
