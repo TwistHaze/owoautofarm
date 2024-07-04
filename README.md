@@ -102,7 +102,11 @@ m)
 - Go To /owoautofarm folder
 - Right click on an empty place in the folder
 - Select "Open in terminal"
+
+- ![image](https://github.com/TwistHaze/owoautofarm/assets/135362115/39d89d2e-0c29-49cd-83c2-edb33474f9f8)
+
 - Write "npm install"
+- Write "node bot.js"
 
 # 🗿 It Is Result!
 
