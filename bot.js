@@ -243,7 +243,7 @@ if (extratokencheck) {
     }
 }
 
-//E <3
+// TwistHaze
 
 DiscordRPC.register(rpcclientid);
 
@@ -1868,7 +1868,7 @@ function getinv(token, channelid, tokentype, gemc, collectc) {
                         // valentines day
                         setTimeout(() => {
                             eventuse(token, "18", channelid, tokentype);
-                        }, 2000); //E <3
+                        }, 2000); // TwistHaze
                     }
                     if (cont.includes("`019`")) {
                         // anniversary day
@@ -2729,7 +2729,7 @@ function elaina2(token, channelid, phrasesFilePath) {
             let result = Math.floor(Math.random() * phrases.length);
 
             var ilu = phrases[result];
-            //E <3
+            // TwistHaze
             typing(token, channelid);
             request.post({
                 headers: {
