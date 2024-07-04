@@ -1,6 +1,5 @@
 node_modules/
 .github/
-images/
 .env
 test.js
 test2.js
