@@ -1,4 +1,4 @@
-### 👹 TwistHaze OWO Auto Farm - No Key %100 Free
+# 👹 TwistHaze OWO Auto Farm - No Key %100 Free
 
 
 ## 🤖 Bot Contents
@@ -22,7 +22,7 @@
 ## 🙀 Edit config.json file
 - Go To line 97-103
 ```
-        "main": {
+"main": {
         "token": "",
         "userid": "",
         "channelid": "",
@@ -31,7 +31,7 @@
         "autoquestchannelid": ""
 ```
 
-# How I Get Token?
+## 💎 How I Get Token?
 - Login with your account https://discord.com/app
 - CTRL + Shift + I --- Console Will Open
 - And Paste This Command 👇
@@ -47,7 +47,11 @@ m)
     .find((e) => e?.exports?.default?.getToken !== void 0)
     .exports.default.getToken();
 ```
-# How I Get UsedID?
+
+![image](https://github.com/TwistHaze/owoautofarm/assets/135362115/1b894d32-f69c-4716-804d-032727ab07b2)
+
+
+## 🔰 How I Get UserID?
 - Open Discord
 - Click Yourself
 
@@ -58,12 +62,39 @@ m)
 ![image](https://github.com/TwistHaze/owoautofarm/assets/135362115/289cdfe1-1a1f-4a75-86ae-f06c64effa09)
 
 
-# How I Get Channel ID?
-- 
+## 🔎 How I Get Channel ID?
+- Create New Channel
+- Create 3 Different Text Channels
+- 1) owo-quest ---- 2) owo-chat ---- 3) owo gamblit
+- Right Click owo-chat Text Channel
+- Click Copy Channel ID
+ 
+![image](https://github.com/TwistHaze/owoautofarm/assets/135362115/a2fc1c20-e496-4205-a2e3-1ff29d26a1f6)
+
+## ⌨️ How I Get OWO DM Channel ID?
+- Open Your DM's
+- Start Chat With Owo Bot
+- Right Click Owo
+- Click "Copy Channel ID"
+ 
+![image](https://github.com/TwistHaze/owoautofarm/assets/135362115/4c065bd4-6e87-40b7-a559-9941863b7fbf)
+
+## 🍀 How I Get Gamble Channel ID?
+- Right Click owo-gamblit Text Channel
+- Click Copy Channel ID
+
+![image](https://github.com/TwistHaze/owoautofarm/assets/135362115/79a8229d-0866-4863-98aa-670ffeadf031)
+
+## 🎄 How I Get Auto Quest Channel ID?
+- Right Click owo-quest Text Channel
+- Click Copy Channel ID
+
+ ![image](https://github.com/TwistHaze/owoautofarm/assets/135362115/18e05125-b460-48a6-9799-dbc4ea600100)
 
 
 
-## 🤔 How To Run
+
+# 🤔 How To Run
 - Open CMD
 - git clone https://github.com/TwistHaze/owoautofarm
 - close cmd
@@ -71,3 +102,20 @@ m)
 - Right click on an empty place in the folder
 - Select "Open in terminal"
 - Write "npm install"
+
+# 🗿 It Is Result!
+
+![image](https://github.com/TwistHaze/owoautofarm/assets/135362115/f6c7b245-99bb-49d4-8d26-7689958b07e1)
+
+![image](https://github.com/TwistHaze/owoautofarm/assets/135362115/a6bc2ef7-a061-415b-9ef0-d0ee4e7db5fb)
+
+
+
+
+# 👀 Any Questions/You Dont Understand Anything?
+- Contact:
+- DC: 404wg ---- IG: 404wg
+
+# ⭐・Give A Star
+
+- You can also give this repository a star to show more people and they can use this repository
