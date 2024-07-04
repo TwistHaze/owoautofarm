@@ -1,8 +1,8 @@
 # 👹 TwistHaze OWO Auto Farm - No Key %100 Free
 
 
-## 🤖 Bot Contents
-# 😶‍🌫️ AUTO DEDECT AND STOP WHEN DETECT CHAPTA!!!
+# 🤖 Bot Contents
+## 😶‍🌫️ AUTO DEDECT AND STOP WHEN DETECT CHAPTA!!!
 - Auto Double Money (Owo coinflip)
 - Auto Hunt
 - Auto Battle
@@ -21,6 +21,7 @@
 
 ## 🙀 Edit config.json file
 - Go To line 97-103
+- And its important! In the config.json file, change it to "true" to activate files such as pray, inventory check, auto gem etc.
 ```
 "main": {
         "token": "",
