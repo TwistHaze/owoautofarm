@@ -21,20 +21,21 @@
 
 ## 🙀 Edit config.json file
 - Go To line 97-103
-
-    "main": {
+```
+        "main": {
         "token": "",
         "userid": "",
         "channelid": "",
         "owodmchannelid": "",
         "gamblechannelid": "",
         "autoquestchannelid": ""
+```
 
 # How I Get Token?
 - Login with your account https://discord.com/app
 - CTRL + Shift + I --- Console Will Open
 - And Paste This Command 👇
-
+```
 (webpackChunkdiscord_app.push([
     [""],
     {},
@@ -45,13 +46,17 @@
 m)
     .find((e) => e?.exports?.default?.getToken !== void 0)
     .exports.default.getToken();
-
+```
 # How I Get UsedID?
 - Open Discord
 - Click Yourself
+
 ![image](https://github.com/TwistHaze/owoautofarm/assets/135362115/311e83b8-8946-481b-a9cd-17881e2d1371)
+
 - Click Copy Used ID (The button below)
+
 ![image](https://github.com/TwistHaze/owoautofarm/assets/135362115/289cdfe1-1a1f-4a75-86ae-f06c64effa09)
+
 
 # How I Get Channel ID?
 - 
